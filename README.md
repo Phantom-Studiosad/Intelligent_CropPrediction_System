@@ -3,7 +3,7 @@ Agriculture and associated sectors account for roughly 18 percent of India's Gro
 
 We propose an Intelligent Crop Recommendation system using Machine Learning that predicts crop suitability by factoring all relevant data such as temperature, rainfall, location, and soil condition. This system is primarily concerned with performing AgroConsultant's principal role, which is to provide crop recommendations to farmers. 
 ## Created & Maintained By
- [DHARUN NARAYANAN L K](ht[2:14 pm, 17/12/2021] Dharun: Agriculture and associated sectors accotps://dharun-narayanan.github.io/me/) <br/>
+ [DHARUN NARAYANAN L K](https://dharun-narayanan.github.io/me/) <br/>
 ([Twitter](https://twitter.com/dharun_official)) ([LinkedIn](https://www.linkedin.com/in/dharun-narayanan-l-k-407459197/))
 ([Instagram](https://www.instagram.com/_dharun_26/?hl=en)) <br/>
 
